@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+bot_log.txt
+bot_output.txt
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# HAR files
+*.har
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Images (optional - uncomment if you don't want to upload images)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+
+# Chrome extensions
+*.crx
+
+# Binary files
+100
+3.1.0_0.crx
+
+# Tokens and sensitive data
+bearer_token.json
+tokens.json
+*.json.bak
+
+# Proxy lists (optional - uncomment if sensitive)
+# proxies.txt
+# blacklist.txt
